@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\bin\Debug\net6.0\proect_C#.exe
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\bin\Debug\net6.0\proect_C#.deps.json
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\bin\Debug\net6.0\proect_C#.runtimeconfig.json
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\bin\Debug\net6.0\proect_C#.dll
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\bin\Debug\net6.0\proect_C#.pdb
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.dll
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\refint\proect_C#.dll
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.pdb
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\proect_C#.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\lessis_C#_1\proect_C#\obj\Debug\net6.0\ref\proect_C#.dll
